@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="566427cf-00e9-43a6-8ec8-56f7cf40437f" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/apache-maven/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="F:\apache-maven\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="1ioaWykXiMfYHUxD7SAZ85pafdd" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Performance</id>
+          </State>
+          <State>
+            <id>Data flow issuesJava</id>
+          </State>
+          <State>
+            <id>Data flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Ali-Check</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="ToolWindowDebug.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/IDEAprojects/demo" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.pojo" />
+      <recent name="com.mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.pojo" />
+      <recent name="task.question1" />
+      <recent name="com" />
+      <recent name="com.service" />
+      <recent name="com.mapper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ad\rer\test\src\main\java\task\question6" />
+      <recent name="D:\ad\rer\test\src\main\java\task\question9" />
+      <recent name="D:\ad\rer\test\src\main\java\task\question8" />
+      <recent name="D:\ad\rer\test\src\main\java\task\question7" />
+      <recent name="D:\ad\rer\test\src\main\java\task\question5" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Hk1App">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.App" />
+      <module name="test" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task.question6.Test" />
+      <module name="test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task.question6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task.question8.Test" />
+      <module name="test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task.question8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hk1App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.Hk1App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/test/src/main/resources/application.yaml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/application.yaml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Docker" type="docker-deploy" factoryName="docker-compose.yml" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="111" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Test (2)" />
+      <item itemvalue="Application.App" />
+      <item itemvalue="Docker.Docker" />
+      <item itemvalue="Docker.Dockerfile" />
+      <item itemvalue="Spring Boot.App" />
+      <item itemvalue="Spring Boot.Hk1App" />
+      <item itemvalue="TestNG.D:/test/src/main/resources/application.yaml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.D:/test/src/main/resources/application.yaml" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Docker.Dockerfile" />
+        <item itemvalue="Application.Test (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="566427cf-00e9-43a6-8ec8-56f7cf40437f" name="Default" comment="" />
+      <created>1599180105687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599180105687</updated>
+      <workItem from="1599180109133" duration="10685000" />
+      <workItem from="1599441846490" duration="20170000" />
+      <workItem from="1599525269730" duration="993000" />
+      <workItem from="1599532000620" duration="10725000" />
+      <workItem from="1601186751435" duration="367000" />
+      <workItem from="1601187158085" duration="4564000" />
+      <workItem from="1601253132235" duration="5662000" />
+      <workItem from="1601272121533" duration="161000" />
+      <workItem from="1601272332810" duration="648000" />
+      <workItem from="1601692314349" duration="9681000" />
+      <workItem from="1602203336545" duration="1289000" />
+      <workItem from="1602289664107" duration="16820000" />
+      <workItem from="1602462691823" duration="656000" />
+      <workItem from="1602467325590" duration="6317000" />
+      <workItem from="1602495200791" duration="1365000" />
+      <workItem from="1602555292050" duration="913000" />
+      <workItem from="1602559279043" duration="13633000" />
+      <workItem from="1602576437604" duration="1919000" />
+      <workItem from="1602639216677" duration="542000" />
+      <workItem from="1602639782836" duration="9353000" />
+      <workItem from="1602664986296" duration="703000" />
+      <workItem from="1602744384610" duration="4161000" />
+      <workItem from="1603352721072" duration="256000" />
+      <workItem from="1603353005689" duration="2714000" />
+      <workItem from="1603590338422" duration="1679000" />
+      <workItem from="1603595091261" duration="886000" />
+      <workItem from="1603676669170" duration="9986000" />
+      <workItem from="1603713642919" duration="4997000" />
+      <workItem from="1603718708647" duration="1911000" />
+      <workItem from="1603760947552" duration="5935000" />
+      <workItem from="1603767531586" duration="240000" />
+      <workItem from="1603774259270" duration="1160000" />
+      <workItem from="1603777861598" duration="5472000" />
+      <workItem from="1603852355762" duration="36079000" />
+      <workItem from="1604108568241" duration="6494000" />
+      <workItem from="1604142477292" duration="6194000" />
+      <workItem from="1605057856252" duration="10528000" />
+      <workItem from="1606994489840" duration="9135000" />
+      <workItem from="1607012538848" duration="5177000" />
+      <workItem from="1607061750494" duration="1385000" />
+      <workItem from="1607134260121" duration="2672000" />
+      <workItem from="1607500797870" duration="4893000" />
+      <workItem from="1607569080632" duration="2574000" />
+      <workItem from="1607602276997" duration="951000" />
+      <workItem from="1607654020171" duration="35024000" />
+      <workItem from="1607927387221" duration="31775000" />
+      <workItem from="1608473111032" duration="2003000" />
+      <workItem from="1620266508679" duration="1674000" />
+      <workItem from="1620273708287" duration="1230000" />
+      <workItem from="1620785421632" duration="616000" />
+      <workItem from="1621304438937" duration="151000" />
+      <workItem from="1621843305543" duration="982000" />
+      <workItem from="1638425430304" duration="1687000" />
+      <workItem from="1638430848007" duration="767000" />
+      <workItem from="1679284462746" duration="570000" />
+      <workItem from="1679286952661" duration="2651000" />
+      <workItem from="1687152634616" duration="1292000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="658" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1687152723338">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="658" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1687152723338" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.48.Final/netty-all-4.1.48.Final-sources.jar!/io/netty/bootstrap/ServerBootstrap.java</url>
+          <line>217</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.48.Final/netty-all-4.1.48.Final-sources.jar!/io/netty/channel/nio/NioEventLoop.java</url>
+          <line>643</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.48.Final/netty-all-4.1.48.Final-sources.jar!/io/netty/bootstrap/AbstractBootstrap.java</url>
+          <line>309</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.48.Final/netty-all-4.1.48.Final-sources.jar!/io/netty/bootstrap/ServerBootstrap.java</url>
+          <line>131</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.48.Final/netty-all-4.1.48.Final-sources.jar!/io/netty/channel/socket/nio/NioSocketChannel.java</url>
+          <line>490</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.48.Final/netty-all-4.1.48.Final-sources.jar!/io/netty/bootstrap/AbstractBootstrap.java</url>
+          <line>271</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.48.Final/netty-all-4.1.48.Final-sources.jar!/io/netty/channel/socket/nio/NioServerSocketChannel.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.48.Final/netty-all-4.1.48.Final-sources.jar!/io/netty/channel/socket/nio/NioServerSocketChannel.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.48.Final/netty-all-4.1.48.Final-sources.jar!/io/netty/channel/socket/nio/NioServerSocketChannel.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.48.Final/netty-all-4.1.48.Final-sources.jar!/io/netty/channel/AbstractChannel.java</url>
+          <line>107</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.48.Final/netty-all-4.1.48.Final-sources.jar!/io/netty/channel/AbstractChannel.java</url>
+          <line>473</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.48.Final/netty-all-4.1.48.Final-sources.jar!/io/netty/bootstrap/AbstractBootstrap.java</url>
+          <line>447</line>
+          <properties class="io.netty.bootstrap.AbstractBootstrap">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>dataSourceOne()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>split[split.length - 1]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>newOptionsArray()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>executors.length</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>!safeExecute(executor, task, promise, m, !flush)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>isNotValidPromise(promise, true)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>next()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>bootstrap.group()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>config().group()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+</project>
